@@ -128,7 +128,7 @@ Key steps include:
   
 
 ## 📩 Contact
-Created by Adithya Pimpale and Chaithra shree
-📧 pimpaleaditya2@gmail.com
+Created by Akash Sharma and Aditya Pimpale
+
 
 
